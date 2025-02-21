@@ -1,1 +1,0 @@
-{"name":"Local: 231A_Team","url":"d:\\codeForces_ProblemSet\\800\\231A_Team.py","tests":[{"id":1735956280114,"input":"3 \n1 1 0 \n1 1 1 \n1 0 0","output":"2"},{"id":1735956287326,"input":"2 \n1 0 0 \n0 1 1","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\codeForces_ProblemSet\\800\\231A_Team.py","group":"local","local":true}
