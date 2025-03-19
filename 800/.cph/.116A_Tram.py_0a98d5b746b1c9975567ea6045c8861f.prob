@@ -1,0 +1,1 @@
+{"name":"Local: 116A_Tram","url":"d:\\codeForces_ProblemSet\\800\\116A_Tram.py","tests":[{"id":1742352784017,"input":"4\n0 3\n2 5\n4 2\n4 0","output":"6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\codeForces_ProblemSet\\800\\116A_Tram.py","group":"local","local":true}
